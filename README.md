@@ -68,7 +68,9 @@ Nope! It's higher than that. Think of the number of dwarves in Snow White... plu
 Nope! Think higher, like reaching for the stars! ✨
 
 Nope! Think of Snow White... how many dwarves were there?
+
 🌐 Example Gameplay (API)
+
 Run the server:
 
 bash
